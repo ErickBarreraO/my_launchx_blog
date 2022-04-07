@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://erickbarrerao.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi Ruta de Aprendizaje</title>
+      <link>https://erickbarrerao.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://erickbarrerao.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola de nuevo, ahora le hablare un poco sobre todo el conocimiento nuevo que he adquirido gracias al programa de Launch X.
+En primer lugar y los más obvio es que he podido aprender mucho del tema de progrmación, he aprendido lenguajes como Python, HTML, CSS y Javascript. También he podido conjuntar esos conocimientos a lo largo de diversos poryectos y muy de la mano de esto también aprendí un poco a usar frameworks como VUE y Angular.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un desarrollad@r de software</title>
       <link>https://erickbarrerao.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
